@@ -112,9 +112,9 @@ clear: both;
     float: left;
 }
 .image {
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    border-radius: 70%;
     text-align: center;
     line-height: 70px;
     font-size: 20px;
