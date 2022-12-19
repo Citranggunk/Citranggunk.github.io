@@ -112,12 +112,12 @@ clear: both;
     float: left;
 }
 .image {
-    width: 200px;
-    height: 200px;
-    border-radius: 70%;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
     text-align: center;
     line-height: 70px;
-    font-size: 20px;
+    font-size: 50px;
     margin: 0 auto;
 }
 .box .col-4 h4 {
